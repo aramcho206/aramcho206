@@ -1,5 +1,5 @@
 # Aram Cho
-## frontend developer
+## frontend developer <br> BS, Computer Science
 ## BS, Computer Science
 
 * &nbsp; Email: aramcho206@gmail.com
