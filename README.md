@@ -9,7 +9,6 @@
 * &nbsp; IG : https://www.instagram.com/aglioolive0206/
 * &nbsp; currently learning and using React and Javascript
 
-<br>
 
 <div>
   <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aramcho206">
