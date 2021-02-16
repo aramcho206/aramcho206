@@ -1,4 +1,5 @@
-# Aram Cho, frontend developer
+# Aram Cho
+## frontend developer
 
 
 * &nbsp; Email: aramcho206@gmail.com
