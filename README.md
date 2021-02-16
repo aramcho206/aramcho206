@@ -7,10 +7,11 @@
 * &nbsp; currently learning and using React and Javascript
 <br>
 
-<p>
+<div>
   <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aramcho206">
-  <br>
+</div>
+<div>
   <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramcho206">
-</p>
+</div>
 
 
