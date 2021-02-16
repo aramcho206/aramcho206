@@ -9,6 +9,7 @@
 
 <p>
   <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=aramcho206">
+  <img height="120" align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramcho206">
 </p>
 
 
