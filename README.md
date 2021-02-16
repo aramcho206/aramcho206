@@ -2,7 +2,7 @@
 
 
 * &nbsp; Email: aramcho206@gmail.com
-* &nbsp; LinkedIn : https://www.linkedin.com/in/aram-cho-5ba7531ab/
+* &nbsp; LinkedIn : https://www.linkedin.com/in/aram-cho-5ba7531ab
 * &nbsp; RocketPunch : https://www.rocketpunch.com/@aramcho206
 * &nbsp; currently learning and using React and Javascript
 <br>
