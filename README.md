@@ -1,6 +1,7 @@
 # Aram Cho
 ## frontend developer
-## BS, Computer Science
+<br>
+BS, Computer Science
 
 * &nbsp; Email: aramcho206@gmail.com
 * &nbsp; LinkedIn : https://www.linkedin.com/in/aram-cho-5ba7531ab
